@@ -1,18 +1,10 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[https://deepakkalarikkal.com/](./another-page.html).
 
 # About Me
+Seasoned Senior Manager knowledgeable about reporting, budget administration and compliance. Successful at providing regular updates to executive leadership. Offering advanced planning, problem-solving and presentation skills developed over 15 years in Power plant control System.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## My Projects
 
